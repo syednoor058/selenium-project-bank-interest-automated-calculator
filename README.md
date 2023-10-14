@@ -35,7 +35,7 @@ To start using the Bank Interest Calculator Automation script, follow these step
 4. **Run the Script:**
 
    ```sh
-   python testing-script.py
+   python testing_script.py
 
 5. **Retrieve the Results:**
 
